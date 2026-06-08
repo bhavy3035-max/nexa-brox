@@ -1,0 +1,6 @@
+{
+  "name": "Nexa Browser",
+  "description": "A professional and modern multi-tab web browser styled like Google Chrome, featuring an ad blocker, private incognito tabs, bookmarks, history, and a built-in Gemini AI Co-pilot for summarizing and chatting with webpage content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
